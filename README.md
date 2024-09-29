@@ -1,7 +1,9 @@
-# Prework Study Guide Webpage
+# <Your-Project-Title>
 
-## A webpage to put notes and study to help me succeed. I learned Html, Css, JS, and github.
+## Description
 
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide 
+I'm making this repository as proof of being able to learn something completely new! I'm able to push myself and control what I do in terms of time management and behavioral management. I ran into a few problems with pushing new commits and feature branches into the main branch. The problems were a bit frusturating but I was able to eventually figure it out. I learned a lot of new terminology and the git flow process(still learning this.)
 
 ## Installation
 
@@ -9,30 +11,32 @@ N/A
 
 ## Usage
 
-This Prework Study Guide is very useful to study topics such as: HTML, CSS, JavaScript, and Git. When we open the DevTools console we can see the JavaScript running.
-Provide instructions and examples for use. Include screenshots as needed.
+To use this website, read the notes listed under each different coding language.The coding languages included are: HTML, CSS, Java Script, and Git. Inspect the page and look under console to see JavaScript in use.
 
 ## Credits
 
-N/A
+All credits go to edX and their bootcamp course advertised through the University of Utah.
 
 ## License
 
+MIT License
 
-## Badges
+Copyright (c) 2024 Jerome FourStar
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
