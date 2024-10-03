@@ -1,8 +1,7 @@
-  # Prework Study Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide 
 I'm making this repository as proof of being able to learn something completely new! I'm able to push myself and control what I do in terms of time management and behavioral management. I ran into a few problems with pushing new commits and feature branches into the main branch. The problems were a bit frusturating but I was able to eventually figure it out. I learned a lot of new terminology and the git flow process(still learning this.)
 
 ## Installation
